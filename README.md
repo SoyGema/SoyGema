@@ -2,10 +2,6 @@
 
 I love Data and Machine Learning and I'm passionate about videogames!
 
-**SoyGema/SoyGema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Science and Machine Learning
 - 🌱 I’m currently learning advanced Python, MLOPS principles from the data science perspective and JAX 
 - 👯 I’m looking to collaborate on Data Science and Machine Learnig projects !
