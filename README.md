@@ -13,9 +13,6 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 +[Data Exploration Squirrels Dataset](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/Exploratory%20Analysis.ipynb) General Data Science exploration : In this exercise you can see more about how I think from an analytical perspective and which tools I use for data exploration.
 
-+[Machine Learning thinking]()
-
-
 ### Open Source Tutorials
 
 +[StarCraft 2 Codelab](https://soygema.github.io/starcraftII_machine_learning/#0) In this project I've created a codelab to share with the community some of the machine learning fundamentals I've learnt about open source research with StarCraft 2 DeepMind project. 
