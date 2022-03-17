@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: at twitter @SoyGema
 
 ### Portofolio
-+[Dice Game Probability exercise](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/Dice_Game_Probability.ipynb) In this exercise you can see more about how I structure code and solve some probabilistic questions taking into account a Dice-Game
++[Dice Game Probability exercise](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/Dice_Game_Probability.ipynb) In this exercise you can see more about how I structure code and solve some probabilistic questions taking into account a Dice-Game. Find the challenge description [here](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/README.md) and code above.
 
-+[Data Exploration Squirrels Dataset](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/Exploratory%20Analysis.ipynb) General Data Science exploration : In this exercise you can see more about how I think from an analytical perspective and which tools I use 
++[Data Exploration Squirrels Dataset](https://github.com/SoyGema/Portfolio/blob/main/DataExploration/Exploratory%20Analysis.ipynb) General Data Science exploration : In this exercise you can see more about how I think from an analytical perspective and which tools I use for data exploration.
 
 +[Machine Learning thinking]()
 
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 
 +[StarCraft II Unplugged](https://medium.com/p/1c9192fc03b) Article about latest developments released by Deepmind at NeuRIPS2021 DRL workshop. It includes figures and videos made to interpret and communicate papers results
 
-+[Interactive Narrative control : safety and aligment of language agents](https://medium.com/p/2be8eb7636a9)
++[Interactive Narrative control : safety and aligment of language agents](https://medium.com/p/2be8eb7636a9) Technical blogpost article about PPLM research implementation for Mempathy
 
