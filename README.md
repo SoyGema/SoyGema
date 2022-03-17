@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there 👋 This is Gema!
 
-<!--
+I love Data and Machine Learning and I'm passionate about videogames!
+
 **SoyGema/SoyGema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Data Science and Machine Learning
+- 🌱 I’m currently learning advanced Python, MLOPS principles from the data science perspective and JAX 
+- 👯 I’m looking to collaborate on Data Science and Machine Learnig projects !
+- 💬 Ask me about Machine Learning fundamentals, Deepmind pysc2 project and getting on with large language models!
+- 📫 How to reach me: at twitter @SoyGema
+
+### Portofolio
++[Dice Game Probability exercise]()
+
+In this exercise you can see more about how I structure code and solve some probabilistic questions taking into account a Dice-Game
+
++[Data Exploration Squirrels Dataset]()
+
+General Data Science exploration : In this exercise you can see more about how I think from an analytical perspective and which tools I use 
+
++[Machine Learning thinking]()
+
+
+### Open Source Tutorials
+
++[StarCraft 2 Codelab](https://soygema.github.io/starcraftII_machine_learning/#0) 
+
+In this project I've created a codelab to share with the community some of the machine learning fundamentals I've learnt about open source research with StarCraft 2 DeepMind project. 
+
+### Research Projects
+
++[NeuRIPS 2020](https://wordplay-workshop.github.io/modern/assets/pdfs/2.pdf) Participation in NeuRIPS 2020 Workshop WordPlay: When language meets games with the videogame Mempathy
+
+This projects benchmarks some experiments with Imitation and Reinforcement Learning in language oriented games.
+
++[ICML 2021](https://docs.google.com/presentation/d/1iATyd80yYMKoV-WPzV0_hYntYbpwvlZS/edit?usp=sharing&ouid=109726716116488916327&rtpof=true&sd=true) Poster session in WiML Unowrkshop 
+
+### Machine Learning and videogames blogposts
+
++[StarCraft II Unplugged](https://medium.com/p/1c9192fc03b)
+
+Article about latest developments released by Deepmind at NeuRIPS2021 DRL workshop. It includes figures and videos made to interpret and communicate papers results
+
++[Interactive](https://medium.com/p/2be8eb7636a9)
+
