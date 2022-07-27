@@ -32,4 +32,4 @@ I love Data and Machine Learning and I'm passionate about videogames!
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
-[![SoyGema's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyGema)](https://github.com/SoyGema/github-readme-stats)
+#[![SoyGema's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoyGema)](https://github.com/SoyGema/github-readme-stats)
