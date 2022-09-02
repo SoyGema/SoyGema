@@ -19,7 +19,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 ### Research Projects
 
-+[NeuRIPS 2020](https://wordplay-workshop.github.io/modern/assets/pdfs/2.pdf) Participation in NeuRIPS 2020 Workshop WordPlay: When language meets games with the videogame Mempathy. This projects benchmarks some experiments with Imitation and Reinforcement Learning in language oriented games.
++[NeuRIPS 2020](https://cupdf.com/document/benchmarking-imitation-and-reinforcement-learning-for-.html?page=1) Participation in NeuRIPS 2020 Workshop WordPlay: When language meets games with the videogame Mempathy. This projects benchmarks some experiments with Imitation and Reinforcement Learning in language oriented games.
 
 +[ICML 2021](https://docs.google.com/presentation/d/1iATyd80yYMKoV-WPzV0_hYntYbpwvlZS/edit?usp=sharing&ouid=109726716116488916327&rtpof=true&sd=true) Poster session in WiML Unowrkshop 
 
