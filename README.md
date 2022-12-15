@@ -15,7 +15,9 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 ### Open Source Tutorials
 
-+[StarCraft 2 Codelab](https://soygema.github.io/starcraftII_machine_learning/#0) In this project I've created a codelab to share with the community some of the machine learning fundamentals I've learnt about open source research with StarCraft 2 DeepMind project. 
++[StarCraft 2 Codelab](https://soygema.github.io/starcraftII_machine_learning/#0) In this project I've created a codelab to share with the community some of the machine learning fundamentals I've learnt about open source research with StarCraft 2 DeepMind project.
+
++[Satellite orbit prediction with DVC VSCode Open Source extension](https://github.com/iterative/VSCode-DVC-Workshop) Workshop given at PyDayBCN 2022. In this workshop we predict kinematic orbit for 600 Satellites making machine learning experiments with Multioutput Random Forest Regressor.  
 
 ### Research Projects
 
