@@ -31,5 +31,13 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 +[Interactive Narrative control : safety and aligment of language agents](https://medium.com/p/2be8eb7636a9) Technical blogpost article about PPLM research implementation for Mempathy.
 
+##  Recent Activity
+<!--START_SECTION:activity-->
+1. Commented on [#117](https://github.com/jessevig/bertviz/issues/117)
+2. Opened issue [#24254](https://github.com/huggingface/transformers/issues/24254)
+3. Created PR [#24336](https://github.com/huggingface/transformers/pull/24336) 
+<!--END_SECTION:activity-->
+
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
