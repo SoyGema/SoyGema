@@ -36,6 +36,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 1. Commented on [#117](https://github.com/jessevig/bertviz/issues/117)
 2. Opened issue [#24254](https://github.com/huggingface/transformers/issues/24254)
 3. Created PR [#24336](https://github.com/huggingface/transformers/pull/24336) 
+4. Closed bug Report [#3837](https://github.com/iterative/vscode-dvc/issues/3837) . Reopened. Learnt about [trust-level systems](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/)
+5. Reported bug [#4137](https://github.com/iterative/vscode-dvc/pull/4137)
 <!--END_SECTION:activity-->
 
 
