@@ -38,6 +38,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 3. Created PR [#24336](https://github.com/huggingface/transformers/pull/24336) 
 4. Closed bug Report [#3837](https://github.com/iterative/vscode-dvc/issues/3837) . Reopened. Learnt about [trust-level systems](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/)
 5. Reported bug [#4137](https://github.com/iterative/vscode-dvc/pull/4137)
+6. Opened issue [#24341](https://github.com/huggingface/transformers/issues/24341) . Discovered Notebook HF repository for fixes.
+   
 <!--END_SECTION:activity-->
 
 
