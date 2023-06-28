@@ -41,6 +41,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 6. Opened issue [#24341](https://github.com/huggingface/transformers/issues/24341) . Discovered Notebook HF repository for fixes.
 7. Opened issue [#24497](https://github.com/huggingface/transformers/issues/24497)
 8. Created PR [#24501](https://github.com/huggingface/transformers/pull/24501)
+9. Read paper [OSS](https://arxiv.org/abs/2306.05548)
+   
    
 <!--END_SECTION:activity-->
 
