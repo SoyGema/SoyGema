@@ -38,6 +38,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 2. Commented on [#4194](https://github.com/iterative/vscode-dvc/issues/4194)
 3. Commented on [#24575](https://github.com/huggingface/transformers/issues/24575)
 4. Read paper [OSS](https://arxiv.org/pdf/2101.10291.pdf)
+   
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
    
