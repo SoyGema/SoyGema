@@ -40,6 +40,9 @@ I love Data and Machine Learning and I'm passionate about videogames!
 4. Read paper [OSS](https://arxiv.org/pdf/2101.10291.pdf)
 5. Open issue [#24693](https://github.com/huggingface/transformers/issues/24693)
 6. Comment issue [#24693](https://github.com/huggingface/transformers/issues/24693#issuecomment-1625263256)
+7. Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
+8. Comment issue [#24723](https://github.com/huggingface/transformers/issues/24723)
+9. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
