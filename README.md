@@ -32,7 +32,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 <details>
 
-<summary>Research Projectss</summary>
+<summary>Research Projects</summary>
 
 +[NeuRIPS 2020](https://cupdf.com/document/benchmarking-imitation-and-reinforcement-learning-for-.html?page=1) Participation in NeuRIPS 2020 Workshop WordPlay: When language meets games with the videogame Mempathy. This projects benchmarks some experiments with Imitation and Reinforcement Learning in language oriented games.
 
