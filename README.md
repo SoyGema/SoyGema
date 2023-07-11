@@ -72,6 +72,8 @@ Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/
 </details>   
 <!--END_SECTION:activity-->
 
-
+<details> 
+<summary>Graph</summary>   
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+</details> 
