@@ -66,6 +66,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 7. Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
 8. Comment issue [#24723](https://github.com/huggingface/transformers/issues/24723)
 9. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
+10. Read paper [OSS](https://openaccess.city.ac.uk/id/eprint/5955/1/ContentServer_%281%29.pdf)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
