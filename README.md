@@ -56,18 +56,10 @@ I love Data and Machine Learning and I'm passionate about videogames!
 <summary>Recent activity</summary>
 
 <!--START_SECTION:activity-->
-0. Open issue [#24579](https://github.com/huggingface/transformers/issues/24579)
-1. Created PR [#24594](https://github.com/huggingface/transformers/pull/24594)
-2. Commented on [#4194](https://github.com/iterative/vscode-dvc/issues/4194)
-3. Commented on [#24575](https://github.com/huggingface/transformers/issues/24575)
-4. Read paper [OSS](https://arxiv.org/pdf/2101.10291.pdf)
-5. Open issue [#24693](https://github.com/huggingface/transformers/issues/24693)
-6. Comment issue [#24693](https://github.com/huggingface/transformers/issues/24693#issuecomment-1625263256)
-7. Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
-8. Comment issue [#24723](https://github.com/huggingface/transformers/issues/24723)
-9. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
-10. Read paper [OSS](https://openaccess.city.ac.uk/id/eprint/5955/1/ContentServer_%281%29.pdf)
-11. Solved and closed [#24693](https://github.com/huggingface/transformers/issues/24693)
+
+0. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
+1. Read paper [OSS](https://openaccess.city.ac.uk/id/eprint/5955/1/ContentServer_%281%29.pdf)
+2. Solve and close [#24693](https://github.com/huggingface/transformers/issues/24693)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
