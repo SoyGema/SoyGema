@@ -60,6 +60,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 0. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
 1. Read paper [OSS](https://openaccess.city.ac.uk/id/eprint/5955/1/ContentServer_%281%29.pdf)
 2. Solve and close [#24693](https://github.com/huggingface/transformers/issues/24693)
+3. Participate [HF Forum](https://discuss.huggingface.co/t/join-ai-research-survey-and-stand-a-chance-to-win-a-gift-card-by-polytechnique-montreals-swat-lab/46448/5) and research survey 
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
