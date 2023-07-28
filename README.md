@@ -63,7 +63,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 3. Participate [HF Forum](https://discuss.huggingface.co/t/join-ai-research-survey-and-stand-a-chance-to-win-a-gift-card-by-polytechnique-montreals-swat-lab/46448/5) and research survey
 4. Comment issue [#24783](https://github.com/huggingface/transformers/issues/24783)
 5. Work on [#24783](https://github.com/huggingface/transformers/issues/24783)
-6. Work on [#25046](https://github.com/huggingface/transformers/pull/25046)
+6. PR [#25046](https://github.com/huggingface/transformers/pull/25046)
+7. Popcorn issue
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
