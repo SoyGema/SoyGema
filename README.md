@@ -64,7 +64,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 4. Comment issue [#24783](https://github.com/huggingface/transformers/issues/24783)
 5. Work on [#24783](https://github.com/huggingface/transformers/issues/24783)
 6. PR [#25046](https://github.com/huggingface/transformers/pull/25046)
-7. Popcorn issue
+7. Popcorn issue [#24934](https://github.com/huggingface/transformers/issues/24934)
+8. Support [#25208](https://github.com/huggingface/transformers/issues/25208)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
