@@ -67,6 +67,11 @@ I love Data and Machine Learning and I'm passionate about videogames!
 7. Popcorn issue [#24934](https://github.com/huggingface/transformers/issues/24934)
 8. Support [#25208](https://github.com/huggingface/transformers/issues/25208)
 9. Open and solve Issue [#3](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/3)
+10. Review [#649](https://github.com/iterative/dvclive/pull/649)
+11. Open Plots LLM feature request [#137](https://github.com/iterative/dvc-render/issues/137)
+12. Open issue [#4](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/5)
+13. Post Question in [HF Forum](https://discuss.huggingface.co/t/disable-xla-for-t5-fine-tuning-using-tensorflow-on-m1-mac/29264/7)
+14. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
