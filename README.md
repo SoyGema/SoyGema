@@ -57,21 +57,9 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 <!--START_SECTION:activity-->
 
-0. Comment Request Feature enhancement [#4242](https://github.com/iterative/vscode-dvc/issues/4242)
-1. Read paper [OSS](https://openaccess.city.ac.uk/id/eprint/5955/1/ContentServer_%281%29.pdf)
-2. Solve and close [#24693](https://github.com/huggingface/transformers/issues/24693)
-3. Participate [HF Forum](https://discuss.huggingface.co/t/join-ai-research-survey-and-stand-a-chance-to-win-a-gift-card-by-polytechnique-montreals-swat-lab/46448/5) and research survey
-4. Comment issue [#24783](https://github.com/huggingface/transformers/issues/24783)
-5. Work on [#24783](https://github.com/huggingface/transformers/issues/24783)
-6. PR [#25046](https://github.com/huggingface/transformers/pull/25046)
-7. Popcorn issue [#24934](https://github.com/huggingface/transformers/issues/24934)
-8. Support [#25208](https://github.com/huggingface/transformers/issues/25208)
-9. Open and solve Issue [#3](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/3)
-10. Review [#649](https://github.com/iterative/dvclive/pull/649)
-11. Open Plots LLM feature request [#137](https://github.com/iterative/dvc-render/issues/137)
-12. Open issue [#4](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/5)
-13. Post Question in [HF Forum](https://discuss.huggingface.co/t/disable-xla-for-t5-fine-tuning-using-tensorflow-on-m1-mac/29264/7)
-14. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
+0. Open issue [#4](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/5)
+1. Post Question in [HF Forum](https://discuss.huggingface.co/t/disable-xla-for-t5-fine-tuning-using-tensorflow-on-m1-mac/29264/7)
+2. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
