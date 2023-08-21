@@ -60,7 +60,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 0. Open issue [#4](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/5)
 1. Post Question in [HF Forum](https://discuss.huggingface.co/t/disable-xla-for-t5-fine-tuning-using-tensorflow-on-m1-mac/29264/7)
 2. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
-3. Send PR [#25461](https://github.com/huggingface/transformers/pull/25461)
+3. Created PR [#25461](https://github.com/huggingface/transformers/pull/25461)
+4. Read paper [OSS](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/1824/file/stieglitz_lattemann_2005.pdf)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
