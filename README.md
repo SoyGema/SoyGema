@@ -62,6 +62,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 2. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
 3. Created PR [#25461](https://github.com/huggingface/transformers/pull/25461)
 4. Read paper [OSS](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/1824/file/stieglitz_lattemann_2005.pdf)
+5. Read paper [OSS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
