@@ -65,6 +65,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 5. Read paper [OSS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
 6. Open Feature Request [#4567](https://github.com/iterative/vscode-dvc/issues/4567)
 7. Read paper [OSS](https://maxlangenkamp.me/AIES_paper.pdf) and see [repo](https://github.com/Yichabod/OSML_value)
+8. Work on PyconES Keynote [repo](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks)
    
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
