@@ -66,6 +66,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 6. Open Feature Request [#4567](https://github.com/iterative/vscode-dvc/issues/4567)
 7. Read paper [OSS](https://maxlangenkamp.me/AIES_paper.pdf) and see [repo](https://github.com/Yichabod/OSML_value)
 8. Work on PyconES Keynote [repo](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks)
+9. Submit [PR #697](https://github.com/iterative/dvclive/pull/697)
+10. Open issue [#25931](https://github.com/huggingface/transformers/issues/25931)
    
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
