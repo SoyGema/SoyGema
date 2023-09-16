@@ -57,18 +57,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 <!--START_SECTION:activity-->
 
-0. Open issue [#4](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks/issues/5)
-1. Post Question in [HF Forum](https://discuss.huggingface.co/t/disable-xla-for-t5-fine-tuning-using-tensorflow-on-m1-mac/29264/7)
-2. Open issue [#25444](https://github.com/huggingface/transformers/issues/25444)
-3. Created PR [#25461](https://github.com/huggingface/transformers/pull/25461)
-4. Read paper [OSS](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/1824/file/stieglitz_lattemann_2005.pdf)
-5. Read paper [OSS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807)
-6. Open Feature Request [#4567](https://github.com/iterative/vscode-dvc/issues/4567)
-7. Read paper [OSS](https://maxlangenkamp.me/AIES_paper.pdf) and see [repo](https://github.com/Yichabod/OSML_value)
-8. Work on PyconES Keynote [repo](https://github.com/SoyGema/The-Lord-of-The-Words-The-two-frameworks)
-9. Submit [PR #697](https://github.com/iterative/dvclive/pull/697)
-10. Open issue [#25931](https://github.com/huggingface/transformers/issues/25931)
-11. Support in [#26075](https://github.com/huggingface/transformers/issues/26075)
+0. Support in [#26075](https://github.com/huggingface/transformers/issues/26075)
+1. Bug Report [#4671](https://github.com/iterative/vscode-dvc/issues/4671)
    
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
