@@ -59,6 +59,11 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 0. Support in [#26075](https://github.com/huggingface/transformers/issues/26075)
 1. Bug Report [#4671](https://github.com/iterative/vscode-dvc/issues/4671)
+2. Read [OSS paper](https://arxiv.org/pdf/2110.15447.pdf)
+3. Read [OSS paper](https://arxiv.org/pdf/1707.02327.pdf)
+4. Read [OSS paper](https://link.springer.com/content/pdf/10.1007/s10664-021-10012-6.pdf)
+5. Read [OSS paper](https://arxiv.org/pdf/2008.02597.pdf)
+6. Read [OSS paper](https://link.springer.com/content/pdf/10.1007/s10664-018-9659-9.pdf)
    
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
