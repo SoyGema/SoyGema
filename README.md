@@ -65,6 +65,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 5. Read [OSS paper](https://arxiv.org/pdf/2008.02597.pdf)
 6. Read [OSS paper](https://link.springer.com/content/pdf/10.1007/s10664-018-9659-9.pdf)
 7. Test pip-rating project and Open issue [#46](https://github.com/Nekmo/pip-rating/issues/46)
+8. Submit [PR](https://github.com/Nekmo/pip-rating/pull/47)
    
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
