@@ -57,17 +57,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 
 <!--START_SECTION:activity-->
 
-0. Support in [#26075](https://github.com/huggingface/transformers/issues/26075)
-1. Bug Report [#4671](https://github.com/iterative/vscode-dvc/issues/4671)
-2. Read [OSS paper](https://arxiv.org/pdf/2110.15447.pdf)
-3. Read [OSS paper](https://arxiv.org/pdf/1707.02327.pdf)
-4. Read [OSS paper](https://link.springer.com/content/pdf/10.1007/s10664-021-10012-6.pdf)
-5. Read [OSS paper](https://arxiv.org/pdf/2008.02597.pdf)
-6. Read [OSS paper](https://link.springer.com/content/pdf/10.1007/s10664-018-9659-9.pdf)
-7. Test pip-rating project and Open issue [#46](https://github.com/Nekmo/pip-rating/issues/46)
-8. Submit [PR](https://github.com/Nekmo/pip-rating/pull/47)
-9. Open issue [#1594](https://github.com/huggingface/blog/issues/1594)
-10. Submit PR [#26995](https://github.com/huggingface/transformers/pull/26995)
+53. Comment on issue [#4919](https://github.com/iterative/dvc.org/issues/4919)
+54. Comment on PR [#9606](https://github.com/iterative/dvc/pull/9606#issuecomment-1773055937)
 
    
    
