@@ -60,6 +60,7 @@ I love Data and Machine Learning and I'm passionate about videogames!
 53. Comment on issue [#4919](https://github.com/iterative/dvc.org/issues/4919)
 54. Comment on PR [#9606](https://github.com/iterative/dvc/pull/9606#issuecomment-1773055937)
 55. Read OSS [paper](https://arxiv.org/pdf/2311.16989.pdf)
+56. Comment issue [#1493](https://github.com/ydataai/ydata-profiling/issues/1493#issuecomment-1839773478)
 
    
    
