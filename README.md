@@ -62,6 +62,8 @@ I love Data and Machine Learning and I'm passionate about videogames!
 55. Read OSS [paper](https://arxiv.org/pdf/2311.16989.pdf)
 56. Comment issue [#1493](https://github.com/ydataai/ydata-profiling/issues/1493#issuecomment-1839773478)
 57. Comment isue [#5104](https://github.com/iterative/vscode-dvc/issues/5104)
+58. Read OSINT [paper](https://link.springer.com/article/10.1007/s10462-023-10454-y)
+59. Read AI OSS [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596436)
 
    
    
