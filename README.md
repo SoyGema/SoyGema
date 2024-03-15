@@ -1,11 +1,7 @@
 ### Hi there 👋 This is Gema!
 
-I love Data and Machine Learning and I'm passionate about videogames!
-
 - 🔭 I’m currently working on Data Science and Machine Learning
 - 🌱 I’m currently learning advanced Python and AI Alignment.
-- 👯 I’m looking to collaborate on Data Science and Machine Learnig projects !
-- 💬 Ask me about Machine Learning fundamentals, Deepmind pysc2 project and getting on with large language models!
 - 📫 How to reach me: at twitter @SoyGema
 
 <details>
