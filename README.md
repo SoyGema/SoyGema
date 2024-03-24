@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data Science and Machine Learning
 - 🌱 I’m currently learning advanced Python and AI Alignment.
-- 📫 [Bio](https://es.wikipedia.org/wiki/Gema_Parre%C3%B1o#:~:text=Gema%20Parre%C3%B1o%20Piqueras%20(Albacete%2C%201988,de%20asteroides%20sobre%20la%20Tierra) . How to reach me: at twitter @SoyGema
+- 📫 How to reach me: at twitter @SoyGema
 
 <details>
 
