@@ -34,6 +34,8 @@
 
 +[ICML 2021](https://docs.google.com/presentation/d/1iATyd80yYMKoV-WPzV0_hYntYbpwvlZS/edit?usp=sharing&ouid=109726716116488916327&rtpof=true&sd=true) Poster session in WiML Unworkshop. 
 
++[AI Alignment BlueDot](https://docs.google.com/document/d/1I0PSGQzjE7XYgp2RK7zeijA3fGBJ80TQMMMU-SMo7Uk/edit#heading=h.2wdwcpm0haf3) Final Multiagent Reinforcement Learning exercise for BlueDot AI Alignment course
+
 </details>
 
 <details>
