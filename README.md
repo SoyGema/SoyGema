@@ -36,7 +36,7 @@
 
 +[AI Alignment BlueDot 2024](https://docs.google.com/document/d/1I0PSGQzjE7XYgp2RK7zeijA3fGBJ80TQMMMU-SMo7Uk/edit#heading=h.2wdwcpm0haf3) Final Multiagent Reinforcement Learning exercise for BlueDot AI Alignment Technical course.
 
-+[NeuRIPS 2024 Concordia Contest](https://github.com/SoyGema/concordia_contest_neurips_2024) Top participant. Agent ranked 14/890 . Elo score 1497 
++[NeuRIPS 2024](https://github.com/SoyGema/concordia_contest_neurips_2024) Participation in NeuRIPS 2024 Concordia Contest: Top participant. Agent ranked 14/890 . Elo score 1497 
 
 </details>
 
