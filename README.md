@@ -64,8 +64,8 @@
 57. Comment isue [#5104](https://github.com/iterative/vscode-dvc/issues/5104)
 58. Read OSINT [paper](https://link.springer.com/article/10.1007/s10462-023-10454-y)
 59. Read AI OSS [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4596436)
+60. CooperativeAI course [material](https://course.aisafetyfundamentals.com/cooperative-ai?session=1)
 
-   
    
 Historical activity can be found [here](https://github.com/SoyGema/OSS_activity/tree/main)
    
