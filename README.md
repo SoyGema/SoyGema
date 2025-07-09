@@ -45,6 +45,8 @@
 <summary>Machine Learning and videogames blogposts</summary>
 
 
++[Multi-agent Machine Learning](https://gema-parreno-piqueras.medium.com/multi-agent-ai-risks-mapping-the-emerging-coordination-challenge-42da86d2d173) BlogPost about MA Risks based on CAIF 2025 report
+
 +[StarCraft II Unplugged](https://medium.com/p/1c9192fc03b) BlogPost about latest developments released by Deepmind at NeuRIPS2021 DRL workshop. It includes figures and videos made to interpret and communicate papers results.
 
 +[Interactive Narrative control : safety and aligment of language agents](https://medium.com/p/2be8eb7636a9) Technical blogpost article about PPLM research implementation for Mempathy.
