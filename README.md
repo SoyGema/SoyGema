@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Gema!
 
 - 🔭 I’m currently working on Data Science and Machine Learning
-- 🌱 I’m currently learning advanced Python and AI Alignment.
+- 🌱 I’m currently learning advanced Python and Multi-agent Safety.
 - 📫 How to reach me: at twitter @SoyGema
 
 <details>
